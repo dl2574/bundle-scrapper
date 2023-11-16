@@ -1,0 +1,108 @@
+{
+    "tile_logo_information":{
+       "config":{
+          "image_type":"gcs",
+          "gcs":"images/logos/5theditionmegabundlegygaxkoboldandfriendsmore_bookbundle_bundle-logo-product.png",
+          "imgix":{
+             "args":{
+                
+             },
+             "master_image":{
+                "image_type":"gcs",
+                "gcs":"",
+                "static":"",
+                "imgix":{
+                   
+                }
+             }
+          }
+       }
+    },
+    "machine_name":"5theditionmegabundlegygaxkoboldandfriendsmore_bookbundle",
+    "high_res_tile_image":"https://hb.imgix.net/4e7bce0aed044b38237943a1f94e0c622c0a7c36.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=f50a239ed39855b65bcb542f8f39a8f2",
+    "disable_hero_tile":false,
+    "marketing_blurb":"Get <em>Tomes of Beasts 3</em>, <em>Necropolis 5e</em>, <em>Critical Rolls</em>, and more!",
+    "hover_title":"Pay What You Want",
+    "product_url":"/books/5th-edition-mega-bundle-gygax-kobold-and-friends-more-books",
+    "tile_image":"https://hb.imgix.net/4e7bce0aed044b38237943a1f94e0c622c0a7c36.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d7d6d00c8b38fedad209ae8f25a4a2b7",
+    "category":"bundle",
+    "hero_highlights":[
+       {
+          "heading":"$1,053 worth of awesome stuff",
+          "tooltip":"Get ebooks collectively valued at up to $1,053."
+       },
+       {
+          "heading":"Pay $1 or more",
+          "tooltip":"Name your price of $1 or more and increase your contribution to upgrade your bundle."
+       },
+       {
+          "heading":"DRM-free",
+          "tooltip":"Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+       },
+       {
+          "heading":"Multi-format",
+          "tooltip":"These ebooks come in PDF file types to support many devices."
+       }
+    ],
+    "hover_highlights":[
+       "73 books",
+       "$1,053 Value"
+    ],
+    "author":"Frog God Games",
+    "fallback_store_sale_logo":"",
+    "high_res_tile_image_information":{
+       "config":{
+          "image_type":"gcs",
+          "gcs":"images/humble_home/5theditionmegabundlegygaxkoboldandfriendsmore_bookbundle_bundle-product.jpg",
+          "imgix":{
+             "args":{
+                
+             },
+             "master_image":{
+                "image_type":"gcs",
+                "gcs":"",
+                "static":"",
+                "imgix":{
+                   
+                }
+             }
+          }
+       }
+    },
+    "supports_partners":true,
+    "detailed_marketing_blurb":"Searching for ways to spice up your 5e game? Look no further than this bundle, packed with a treasure hoard of 5e-compatible sourcebooks, adventures, and indispensable game aids from some of the finest publishers in the game! Sic some new threats on your seen-it-all players with the <em>Tome of Beasts 3</em>. Send them a journey they’ll never forget with <em>Necropolis</em>, a grand adventure based on the work of none other than Gary Gygax, the Father of RPGs! Broaden their horizons with a smorgasbord of new player options with the <em>Tome of Heroes</em>. Pay what you want for this vast library of over 70 books—valued at more than $1,000—and help support International Medical Corps!",
+    "tile_logo":"https://hb.imgix.net/8710563d05d7069be2686ed1afddc18f41f70270.png?auto=compress,format&h=340&w=1200&s=c5b2f2d407edd70042432c7c1e43e52e",
+    "tile_short_name":"5th Edition Mega Bundle: Gygax + Kobold and Friends + More!",
+    "start_date|datetime":"2023-11-11T19:00:00",
+    "end_date|datetime":"2023-12-02T19:00:00",
+    "tile_stamp":"books",
+    "bundles_sold|decimal":5004.0,
+    "tile_name":"Humble RPG Book Bundle: 5th Edition Mega Bundle: Gygax + Kobold and Friends + More!",
+    "short_marketing_blurb":"Elevate your 5e game",
+    "tile_image_information":{
+       "config":{
+          "image_type":"gcs",
+          "gcs":"images/humble_home/5theditionmegabundlegygaxkoboldandfriendsmore_bookbundle_bundle-product.jpg",
+          "imgix":{
+             "args":{
+                
+             },
+             "master_image":{
+                "image_type":"gcs",
+                "gcs":"",
+                "static":"",
+                "imgix":{
+                   
+                }
+             }
+          }
+       }
+    },
+    "type":"bundle",
+    "highlights":[
+       "Pay What You Want",
+       "73 books",
+       "$1,053 Value",
+       "Support Charity"
+    ]
+ }
